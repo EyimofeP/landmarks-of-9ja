@@ -1,6 +1,6 @@
 # The Landmarks of 9ja
 
-[Check it Out!](https://landmarks-of-lagos.streamlit.app/)
+[Check it Out!](https://eyes-of-landmarks.streamlit.app/Nigeria-Landmarks)
 ___
 The aim of this project is to build an application that can classify eleven (11) popular natural & architectural landmarks that are in Nigeria. These landmarks include
 
